@@ -1,7 +1,7 @@
 # Animal_Classification
 I've developed this Animal Classification Application using TensorFlow and PyQt. 
 
- ![ Alt text](animal classifier. gif) / ! [](animal classifier. gif)
+ ![](https://github.com/sumanta1997/Animal_Classification/blob/master/animal%20classifier.gif)
 
 Here transfer learning technique has been used and only the output layer of MobileNetV2 Architecture has been trained to classify among 4 different classes of animals namely Buffalo,Elephant,Zebra and Rhino.
 
